@@ -10,4 +10,4 @@ To download this repository, click the green **Code** button. Select **Open with
 
 ## Credit
 
-wdw.txt includes content from Wikipedia (CC BY-SA).
+wdw.txt includes content from Wikipedia (CC BY-SA). 
